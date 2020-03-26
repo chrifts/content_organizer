@@ -1,4 +1,4 @@
-# node-express-sequelize-jwt
+# Social media content organizer
 
 #### Clone & setup
 
